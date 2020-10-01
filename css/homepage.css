@@ -1,0 +1,34 @@
+head{
+  background-color: #9370DB
+}
+h1{
+  color: ##696969;
+  text-align: center;
+  padding-top: 15px
+}
+p{
+  color: ##696969;
+  text-align: center;
+}
+.headerp{
+  color: #FFFDD0
+}
+.About{
+  text-align: left;
+}
+
+
+
+
+
+
+.header-info{
+  background-image: url('https://www.xmple.com/wallpaper/gradient-black-purple-linear-1920x1080-c2-000000-8a2be2-a-75-f-14.svg');
+  background-position: center;
+  background-size: 1424px 95px;
+  width: 100%;
+  height: 95px;
+}
+.header{
+  color: #9370DB;
+}
